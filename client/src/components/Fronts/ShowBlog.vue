@@ -2,7 +2,7 @@
   <div>
     <main-header navsel="front"></main-header>
     <div class="header">
-      <h3><i class="fas fa-box"></i> Description Book</h3>
+      <h3><i class="fas fa-box"></i> Description Room</h3>
     </div>
     <div class="container-fluid">
       <div class="container">
@@ -37,7 +37,7 @@
                         style="background: #d3d3d3"
                         width="30%"
                       >
-                        Book ID:
+                        เลขห้อง :
                       </th>
                       <td style="text-indent: 0.5em">{{ blog.id }}</td>
                     </tr>
@@ -49,7 +49,7 @@
                         <i class="fas fa-box"></i>
                       </th>
                       <th class="table-primary" style="background: #d3d3d3">
-                        Book Name:
+                        จำนวนเตียง :
                       </th>
                       <td style="text-indent: 0.5em">{{ blog.title }}</td>
                     </tr>

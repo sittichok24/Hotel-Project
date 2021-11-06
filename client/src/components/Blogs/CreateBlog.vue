@@ -110,7 +110,7 @@
                 </div>
               </div>
               <div class="form-group">
-               <label for="exampleInputEmail1">หมวดหมู่</label>
+               <label for="exampleInputEmail1">สถานะ</label>
                 <div class="input-group mb-3">
                   <div class="input-group-prepend">
                     <span class="input-group-text" id="basic-addon1"
